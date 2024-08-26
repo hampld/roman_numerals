@@ -32,6 +32,7 @@ Larger numbers were indicated by putting a horizontal line over them, which mean
 
 Roman letters for numbers are:
 
+```
 I = 1
 V = 5
 X = 10
@@ -39,11 +40,14 @@ L = 50
 C = 100
 D = 500
 M = 1000
+```
 
 You can't have more than 3 of the same letters in a row. 4 is written as IV, 9 is IX, 40 XL, etc.
 
 Examples:
 
+```
 1990 = MCMXC
 2008 = MMVIII
 99 = XCIX (you can't shortcut with IC ...)
+```
